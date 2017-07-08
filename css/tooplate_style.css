@@ -1,7 +1,4 @@
-/*
-Template 2041 Digital Mini
-http://www.tooplate.com/view/2041-digital-mini
-*/
+
 
 body {
 	margin: 0;
@@ -339,4 +336,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	padding: 20px;
 	text-align: center;
 	color: #666;
+}
+#home {
+	background-image: images/Max Norman Sites Logo.png;
 }
