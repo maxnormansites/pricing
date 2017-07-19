@@ -339,10 +339,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 }
 #home {
 	background-image: images/Max Norman Sites Logo.png;
-}
-
-#home {
-  transition: opacity 500 ease-in-out;
+  	transition: opacity 500 ease-in-out;
 }
 
 
