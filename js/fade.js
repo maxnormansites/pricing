@@ -1,6 +1,8 @@
+$(document).ready(function(){
 $("button").click(function(){
-    $("p").fadeOut();
+    $(fadeOut).fadeOut();
 });
 $("button").click(function(){
-    $("p").fadeIn();
+    $(fadeIn).fadeIn();
+});
 });
