@@ -1,4 +1,4 @@
 $(document).ready(function(){
-    $(fadeOut).fadeOut();
-    $(fadeIn).fadeIn();
+    $(fadeOut).fadeOut('slow');
+    $(fadeIn).fadeIn('slow');
 });
